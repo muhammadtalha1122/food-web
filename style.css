@@ -1,0 +1,41 @@
+/* .home-page{
+    width: 500px;
+    height: 400px;
+    background-color: #0634 ;
+    margin: auto;
+    border-radius: 50px  ;
+    box-shadow: 10px 10px 10px 10px lightblue;
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#SignUp{
+
+    margin: auto;
+    display: block;
+    background-color: #04AA6D;
+    width: 300px;
+    border-radius: 20px;
+    height: 50px;
+    color: white;
+}
+#SignUp:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    transition-duration: 0.4s;
+  }
+
+#signin{
+
+    margin: auto;
+    display: block;
+    background-color: #04AA6D; 
+    width: 300px;
+    border-radius: 20px;
+    height: 50px;
+    color: white;
+}
+#signin:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    transition-duration: 0.4s;
+} */
