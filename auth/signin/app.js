@@ -14,7 +14,7 @@ async function Login() {
                 .then((snapshot) => {
                     console.log(snapshot.val())
                     if (snapshot.val() != undefined && snapshot.val()["userType"] == "user") {
-                        console.log("user panel")
+                        window.location.replace("../../userpanel/home-page/index.html")
                     }
                     else if (snapshot.val() != undefined && snapshot.val()["userType"] == "admin") {
                     window.location.replace("../../admin-panel/dashbord/index.html")
